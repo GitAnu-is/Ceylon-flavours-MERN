@@ -37,8 +37,8 @@ Ceylon Flavours is a full-stack restaurant management system developed as a **gr
 
 | Name                       | GitHub Profile                                                   
 |----------------------------|------------------------------------------------------------------|
-| **Danuka Barnett**                 | [@Danuka23236646](https://github.com/Danuka23236646)             |
-| **Archala Nathali**                | [@archala23186088](https://github.com/archala23186088)           |
 | **Anuradha Isuru**               | [@GitAnu-is](https://github.com/GitAnu-is)                       |
+| **Archala Nathali**                | [@archala23186088](https://github.com/archala23186088)           |
+| **Danuka Barnett**                 | [@Danuka23236646](https://github.com/Danuka23236646)             |
 | **Ushara Kumara**                 | [@UsharaChamudithaKumara](https://github.com/UsharaChamudithaKumara) |
 | **Vishmitha Hashendra**    | [@Vishmithahash](https://github.com/Vishmithahash)               |
